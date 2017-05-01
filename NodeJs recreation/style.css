@@ -1,0 +1,104 @@
+body{
+  height: 600px;
+}
+.banner{
+  background-image: url("http://nodejs.org/static/images/interactive/background.jpg");
+}
+#image{
+  width: 800px;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+#image img{
+  width: auto;
+  height: inherit;
+}
+.topbox{
+    background-color: #333;
+    width:inherit;
+    height:125px;
+    margin: 0 auto;
+    text-align: center;
+}
+.topbox img{
+  width: auto;
+  height: 50%;
+  padding-top: 10px;
+}
+.list-divider-pipe{
+  text-align: center;
+  margin: 0 auto;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 10px;
+}
+#text{
+  height: 100px;
+  width: 90%;
+  margin: 12px;
+  padding-top: 20px;
+  margin: 0 auto;
+}
+#para{
+  text-align: center;
+  font-size: 19px;
+  font-family: Helvetica, sarif;
+  margin: 0 20%;
+}
+.textabovebuttons{
+  margin: 0 auto;
+  text-align: center;
+   font-size: 40px;
+}
+#buttonsmid{
+  height: 50px;
+  width: 50%
+  margin: 0 auto;
+}
+#leftbutton{
+  background-color: green;
+  float: left;
+  height: inherit;
+  width: 100px;
+  text-align: center;
+  margin: 0 auto;
+}
+#rightbutton{
+  background-color: green;
+  width: 100px;
+  height: inherit;
+  text-align: center;
+  margin: 0 auto;
+  float: left;
+}
+#textleft{
+ text-align: center;
+ font-size: 19px;
+ font-weight: 400;
+ margin: 0 auto;
+}
+#textright{
+ text-align: center;
+ font-size: 18px;
+ font-weight: 400;
+ margin: 0 auto;
+}
+.footer{
+  background-color: black;
+  width:auto;
+  height: 200px;
+  margin-top: 200px;
+}
+#copyright{
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  margin: 0 auto;
+  width: 1800px;
+  padding-top: 20px;
+  padding-left: 5px;
+  margin-top: 20px;
+}
